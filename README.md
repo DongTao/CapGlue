@@ -15,7 +15,7 @@ virtualenv env
 cd env
 source evn/bin/activate
 pip install --upgrade pip
-pip freeze -r dependencies.txt
+pip install -r dependencies.txt
 ```
 
 ## Dependencies
