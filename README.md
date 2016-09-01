@@ -19,4 +19,4 @@ pip install -r dependencies.txt
 ```
 
 ## Dependencies
-* pypcapfile==0.11.1
+* dpkt==1.8.8
